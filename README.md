@@ -1,6 +1,6 @@
 ### To use this extension:
 
-1. Download the `manifest.json`, `content.js` and `icon.png` files.
+1. Download the `manifest.json` and `content.js` files.
    - For each file, click on its name to see its contents and then click the *Download* button in the top right of the page that comes up.
    
    ![Screenshot of Download button](download_button_screenshot.png)
